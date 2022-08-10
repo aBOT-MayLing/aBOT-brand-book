@@ -10,7 +10,7 @@
 
 :bookmark_tabs: **[Fonts & typography](#abot-typography.md)**
 
-:bookmark_tabs: **[Brand logo: Rationale, variations & usage](#abot-typography.md)**
+:bookmark_tabs: **[Brand logo: Rationale, variations & usage](#abot-logo.md)**
 
 :bookmark_tabs: **[Brand tagline & hashtags](#abot-tagline-hashtag.md)**
 
