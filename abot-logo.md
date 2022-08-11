@@ -1,7 +1,7 @@
 # Brand logo: Rationale, variations & usage
 
 ## Rationale
-Simplicity - Emphasis of the 'a' symbol (α) to represent different automations of aBOT auditing platform. BOT here representing the robotic part to assist the routine manual ways by human. Teal color brings the feeling of new, modern and relax feeling with the supporting of the 'BOT'.
+Simplicity - Emphasis of the 'a' symbol (α) to represent different automations of aBOT auditing platform. 'BOT' represents the robotic part to assist the routine manual works by auditors. Using Teal as iconic color to bring the feeling of new, modern and relax feeling with the supporting of the 'BOT'.
 
 ## Variations
 
