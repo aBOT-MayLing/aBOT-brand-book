@@ -6,7 +6,7 @@
 
 :bookmark_tabs: **[Moodboard: Visual representation of feelings](abot-moodboard.md)**
 
-:bookmark_tabs: **[Colour palette](abot-color-palette.md)**
+:bookmark_tabs: **[Color palette](abot-color-palette.md)**
 
 :bookmark_tabs: **[Fonts & typography](abot-typography.md)**
 
