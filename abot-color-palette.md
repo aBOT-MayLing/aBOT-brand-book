@@ -1,4 +1,4 @@
-# Colour palette
+# aBOT's color palette
 
 | Type            | Hex Code  |                                   Preview                                |
 | :---            |   :---:   |                                    :---:                                 |
