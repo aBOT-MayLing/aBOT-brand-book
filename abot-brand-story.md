@@ -15,3 +15,7 @@ Three core products of aBOT:<br/>
 :one: Report Automation - Draft report instantly with only one click<br/>
 :two: Audit Automation - Better practice review ratings with systemized working paper<br/>
 :three: MBRS Automation - Prepare XBRL file within minutes
+
+## 
+
+Read more :arrow_right: [aBOT website](https://www.abot.my/)
