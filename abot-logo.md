@@ -16,3 +16,13 @@ _Medium size (296 x 104)_
 _Large size (591 x 208)_
 
 ![aBOT-logo](https://drive.google.com/uc?export=view&id=1YGT1wSFKEzBJrqYT6TyT1TGbgBbYsnqN)
+
+## Favicon & app icon
+
+_Favicon (16 x 16)_
+
+![aBOT-favicon](https://drive.google.com/uc?export=view&id=1YDZwjWXIphkQktIGwQM2LB4s4HM_YCWJ)
+
+_App icon (180 x 180)_
+
+![aBOT-app-icon](https://drive.google.com/uc?export=view&id=1F1ANAvC-DEdBGtWwrV_VFLwpwkHxXjk3)
